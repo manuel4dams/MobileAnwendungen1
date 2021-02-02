@@ -1,0 +1,31 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">LearningNames</string>
+
+    <!-- Settings (feature) -->
+    <string name="action_settings">Settings</string>
+
+    <!-- home -->
+    <string name="home__titel_dashboard">Dashboard</string>
+    <string name="home__titel_categories">Kategorien</string>
+    <string name="home__menu__imprint">Impressum</string>
+    <string name="home__menu__datasecurity">Datenschutz</string>
+    <string name="home__menu__newcategory">Neue Kategorie</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard__title">Dashboard</string>
+    <string name="dashboard__link__test">Ausprobieren</string>
+    <string name="dashboard__link__new">Neue Kategorie</string>
+    <string name="dashboard__continue_header">Zuletzt verwendete Kategorie</string>
+    <string name="dashboard__continue_text">Setzte deine letzte Prüfung fort.</string>
+    <string name="dashboard__challenge_header">Teste dich!</string>
+    <string name="dashboard__challenge_text">Du hast diese Kategorie länger nicht bestanden.</string>
+
+    <!-- Learning -->
+    <string name="learning__menu_categoryedit">Kategorie bearbeiten</string>
+
+    <!-- Edit -->
+    <string name="category__edit_title">bearbeiten</string>
+    <string name="category__new_title">erstellen</string>
+    <string name="category__edit_deletecategory">Kategorie entfernen</string>
+</resources>
